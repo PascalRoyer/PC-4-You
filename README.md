@@ -4,6 +4,7 @@ Application web développée dans le cadre du cours INF1763.
 ## Équipe
 - Pascal Royer 
 - Brahim Thiam
+- Sory Fofana
 
 
 ## Technologies
