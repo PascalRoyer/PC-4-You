@@ -3,7 +3,7 @@
 
 /* Style de lentete */
 header {
-  background-color: #111827;
+  background-color: #181e2b;
   width: 100%;
   height: 60px;
   max-width: 1600px;
@@ -18,14 +18,44 @@ header {
   /* Centrer verticalemnt les éléments de l'entête */
   border-bottom: 1px;
   border-bottom-color: 0b2d3d;
-  
+  margin-bottom: 30px;
 }
 
 /* Style du logo */
 header img {
   margin-right: 20px;
   
-  max-height: 60px;
+  max-height: 100px;
+  
+}
+
+
+
+/* Style de la navigation */
+nav ul {
+  list-style: none;
+  /* Supprimer les puces de la liste */
+  padding:100px;
+}
+
+nav ul li {
+  display: inline;
+  /* Afficher les éléments de la liste horizontalement */
+  margin-right: 20px;
+  /* Espacement entre les éléments de la liste */
+}
+
+nav ul li a {
+  text-decoration: none;
+  /* Supprimer les soulignements des liens */
+  color: white;
+  /* Couleur du texte des liens */
+  
+}
+
+
+.subheader {
+  background-color: #283248;
 }
 
 
@@ -59,8 +89,10 @@ footer {
 }
 
 h1 {
+  
   margin: 0 0 8px;
   font-size: 28px;
+  text-align: center;
 }
 
 p {
