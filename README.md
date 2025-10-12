@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # PC4U - Équipe 19
+=======
+
+# PC4U version - Équipe 19
+
+>>>>>>> b436ce44c0b338ebc95ca4ff6ea107ec61c3b532
 ## Description
 Application web développée dans le cadre du cours INF1763.
 ## Équipe
